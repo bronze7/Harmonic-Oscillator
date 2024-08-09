@@ -7,7 +7,7 @@ _**Do NOT delete/ edit the format of this read.me file.**_
 
 _**Include all necessary information only as per the given format.**_
 
-## Project Information:
+## Project Information: Exponential quantum speedup in simulating coupled classical oscillators
 
 ### Team Size:
   - Maximum team size = 3
@@ -32,8 +32,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Vaishnav S Mallya
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):WQ24-RwcMVwoXXZiTN3N
 
 
 Team Member 2:
